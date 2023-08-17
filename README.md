@@ -5,4 +5,7 @@ Learning C++ and Python
 
 My Project:
 
-[![Описание](https://media.discordapp.net/attachments/1025371600922611742/1061723917678551050/imgonline-com-ua-Shape-ytA3LtnDI8wQ9nZ.png?width=50&height=50)](https://discord.gg/SpTBwz4xsa)
+<div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; position: relative;">
+  <img src="your_image_url" style="position: absolute; top: 10px; right: 10px; width: 30px; height: 30px;">
+  <p style="font-size: 16px; color: #333;">Your text goes here</p>
+</div>
