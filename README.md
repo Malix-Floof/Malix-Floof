@@ -5,4 +5,4 @@ Learning C++ and Python
 
 My Project:
 
-[![Описание](https://media.discordapp.net/attachments/1025371600922611742/1061723917678551050/imgonline-com-ua-Shape-ytA3LtnDI8wQ9nZ.png?width=15&height=15)](https://discord.gg/SpTBwz4xsa)
+[![Описание](https://media.discordapp.net/attachments/1025371600922611742/1061723917678551050/imgonline-com-ua-Shape-ytA3LtnDI8wQ9nZ.png?width=50&height=50)](https://discord.gg/SpTBwz4xsa)
