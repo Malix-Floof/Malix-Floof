@@ -1,0 +1,24 @@
+.comment.img{border:none;border-radius:50%}
+.comment.post.img{border:solid 3px #2220;z-index:1;position:relative;background:#2220}
+.dropMenuSpan:before{border-bottom: 10px solid rgb(0,0,0,.2)}
+.dropMenuSpan{background:rgba(0,0,0,.2);}
+footer{background:rgb(19,23,32)}
+.botPageInvite,.lum{background:rgba(0,0,0,.3);}
+.botPageImg{border-radius:50%}
+.lum{border-radius:15px 100px 15px 100px;}
+.online:after{content:"В сети";background:rgba(0,0,0,.5);}
+body{background:linear-gradient(160deg,#bd7bdb,#212c4a);}
+.user{background:rgb(0,0,0,.2)}
+.hr{display:none}
+.comment.posted{background:rgba(0,0,0,.0);box-shadow: none;margin-bottom:-34px;}
+.comment.textarea{background-color:rgba(0,0,0,.5)}
+.botSupportRight{background:rgba(0,0,0,.25)}
+.botSupportLeft{background:rgba(0,0,0,.5);}
+.comment.post.mark{visibility:hidden;}
+.comment.post.mark.plus:after, .comment.post.mark.minus:after, .comment.post.mark.none:after{visibility:visible;content:"";width:40px;height:40px;display:block;top:5px;position:absolute;left: 5px;border-radius:50%;}
+.botPage{max-width:80%;background-color:rgba(0,0,0,.2)}
+.tegSpan{background-color:rgba(0,0,0,.5)}
+.botPageAuthor{background:rgba(0,0,0,.5)}
+#commentShowMore{margin-top:40px}
+#commentTextera{background-color: #fff}
+#topLine{backdrop-filter:blur(10px);background:rgba(0,0,0,0.0);}
