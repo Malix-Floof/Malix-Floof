@@ -1,1 +1,1 @@
-![image](https://github.com/Malix-Floof/Malix-Dev/assets/101697781/3e3b006f-2ac4-4656-a92f-ee62138a9a41)
+![image](https://github.com/Malix-Floof/Malix-Floof/assets/101697781/fa4eb194-5341-4f79-aa97-99e936f7fa71)
