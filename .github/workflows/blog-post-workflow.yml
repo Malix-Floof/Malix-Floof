@@ -1,17 +1,16 @@
-name: 1a
+name: Work Stats Readme
+
 on:
-  schedule:
-    - cron: '0 * * * *' 
   workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
-  update-readme-with-blog:
-    name: 2a
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - name: 3a
-        uses: actions/checkout@v2
-      - name: 4a
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: athul/waka-readme@master 
         with:
-          feed_list: "https://habr.com/ru/rss/users/daniilshat/posts/?fl=ru"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
