@@ -1,0 +1,17 @@
+name: 1a
+on:
+  schedule:
+    - cron: '0 * * * *' 
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: 2a
+    runs-on: ubuntu-latest
+    steps:
+      - name: 3a
+        uses: actions/checkout@v2
+      - name: 4a
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://habr.com/ru/rss/users/daniilshat/posts/?fl=ru"
