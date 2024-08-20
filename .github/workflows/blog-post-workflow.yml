@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### meta
           API_BASE_URL: https://wakatime.com/api 
-          REPOSITORY: https://github.com/Malix-Floof/Malix-Floof 
+          # REPOSITORY: https://github.com/Malix-Floof/Malix-Floof 
           ### content
           SHOW_TITLE: true 
           SECTION_NAME: waka
