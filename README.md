@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="img.svg" style="width: 20%;"></a>
+  <a><img src="img.gif" style="width: 20%;"></a>
   <br>
    Heya! I'm Malix!
   <br>
