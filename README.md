@@ -6,7 +6,7 @@
 # My Statistic
 <!--START_SECTION:waka-->
 
-```yml
+```txt
 Python   48 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
