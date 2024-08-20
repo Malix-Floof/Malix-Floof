@@ -21,7 +21,7 @@
 </h4>
 
 
-# My Statistic
+# My Statistic:
 <!--START_SECTION:waka-->
 
 ```txt
