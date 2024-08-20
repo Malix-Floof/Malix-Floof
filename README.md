@@ -2,7 +2,7 @@
   <br>
   <a><img src="img.gif" style="width: 40%;"></a>
   <br>
-   Heya! I'm Malix!
+   Hey! I'm Malix!
   <br>
 </h1>
 <h4 align="center">
