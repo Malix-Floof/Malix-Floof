@@ -1,16 +1,4 @@
-<h1 align="center">
-  <br>
-  <a><img src="img.webp" style="width: 40%;"></a>
-  <br>
-   Hey! I'm Malix!
-  <br>
-</h1>
-<h4 align="center">
-  Here, you'll find projects focused on creating Discord bots using Python✨
-</h4>
-
-
-# My Statistic:
+# Projects that inspire ✨
 <!--START_SECTION:waka-->
 
 ```txt
