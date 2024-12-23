@@ -18,4 +18,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: =>
+          IGNORED_LANGUAGES: Binary YAML JSON TOML C# HTML CSS
           TIME_RANGE: all_time
