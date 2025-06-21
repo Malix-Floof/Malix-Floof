@@ -8,9 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             326 hrs 40 mins >>>>>>>>>>>>>>>>>========   66.84 %
-Other              11 hrs 20 mins  >========================   02.32 %
-Text               4 hrs 52 mins   =========================   01.00 %
+Python             330 hrs 15 mins >>>>>>>>>>>>>>>>>========   66.51 %
+Other              11 hrs 20 mins  >========================   02.28 %
+textmate           8 hrs 19 mins   =========================   01.68 %
 ```
 
 <!--END_SECTION:waka-->
