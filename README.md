@@ -8,8 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             376 hrs 34 mins >>>>>>>>>>>>>>>>>========   66.45 %
-Other              11 hrs 21 mins  >========================   02.01 %
+Python             376 hrs 34 mins >>>>>>>>>>>>>>>>=========   65.53 %
+Other              11 hrs 21 mins  =========================   01.98 %
 ```
 
 <!--END_SECTION:waka-->
