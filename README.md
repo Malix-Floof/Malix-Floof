@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             457 hrs 37 mins >>>>>>>>>>>>>>>==========   60.89 %
+Python             457 hrs 37 mins >>>>>>>>>>>>>>>==========   60.82 %
 JavaScript         13 hrs 28 mins  =========================   01.79 %
 Other              12 hrs 28 mins  =========================   01.66 %
 ```
